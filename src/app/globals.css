@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --blue-dark: #0C1F2C;
+  --blue: #205375;
+  --medium-blue: #1E4B6D;
+  --soft-blue: #4B8DA8;
+  --pale-blue: #A1D3E0;
+  --very-light-blue: #E5F7FB;
+  --border-gray: #D1D5DB;
+  --white: #FFFFFF;
+  --black: #000000;
+  --grey: #EFEFEF;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
